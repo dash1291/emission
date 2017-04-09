@@ -77,7 +77,7 @@ function init() {
 		colorRandomness: .2,
 		turbulence: .5,
 		lifetime: 4,
-		size: 5,
+		size: 7,
 		sizeRandomness: 1
 	};
 
